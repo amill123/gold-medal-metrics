@@ -1,3 +1,11 @@
+//My Notes
+
+# gold-medal-metrics
+This project takes data from a csv data file and creates SQL tables/queries, then uses SQL queries to access and sort the data.
+My work is all in the sql.js file
+
+
+//Codecademy Notes
 # Gold Medal Metrics
 
 ## Project Overview
@@ -104,3 +112,5 @@ edge cases.
 To run these tests, first, open the root project directory in your terminal. Then run `npm install` to install all necessary testing dependencies (if you haven't already). Finally, run `npm test`. You will see a list of tests that ran with information about whether or not each test passed. After this list, you will see more specific output about why each failing test failed.
 
 As you implement functionality, run the tests to ensure you are creating correctly named variables and functions that return the proper values. The tests will additionally help you identify edge cases that you may not have anticipated when first writing the functions.
+
+
